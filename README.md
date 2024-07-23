@@ -56,7 +56,10 @@ Style your way through interviews with our CSS questions. Learn about layouts, r
 
 Master the language of the web with our comprehensive JavaScript questions. From basics to advanced concepts like closures, promises, and ES6+ features.
 
-[Explore JavaScript Questions](./javascript/README.md)
+[Basic JavaScript Questions](./javascript/Basic-Questions/README.md)
+[Intermediate JavaScript Questions](./javascript/Intermediate-Questions/README.md)
+[Advanced JavaScript Questions](./javascript/Intermediate-Questions/README.md)
+[Additional JavaScript Questions](./javascript/Additional-Questions/README.md)
 
 ## ⚛️ React.js
 
@@ -91,7 +94,7 @@ We welcome contributions from the community! If you'd like to add a question, im
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature/new-question`)
 3. Make your changes
-4. Commit your changes (`git commit -am 'Add a new question about...'`)
+4. Commit your changes (`git commit -m 'Add a new question about...'`)
 5. Push to the branch (`git push origin feature/new-question`)
 6. Create a new Pull Request
 
