@@ -845,7 +845,7 @@ Optimizing the performance of a JavaScript application involves various strategi
 │ - Memoization   │ - Use fragments │ - Caching   │   production │
 │ - Avoid bloat   │ - Virtual DOM   │ - CDN use   │   monitoring │
 └─────────────────┴─────────────────┴─────────────┴──────────────┘
-
+```
 ## 9. What is the purpose of the `fetch` API?
 
 The `fetch` API is a modern interface for making network requests in JavaScript. It provides a more powerful and flexible feature set than older methods like XMLHttpRequest.
