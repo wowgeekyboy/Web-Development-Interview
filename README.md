@@ -54,7 +54,7 @@ Dive into the building blocks of the web with our HTML questions. From basic str
 
 ## 🎨 CSS
 
-Style your way through interviews with our CSS questions. Learn about layouts, responsive design, animations, and more.
+Welcome to the most comprehensive CSS interview guide you'll ever need! Whether you're just starting out or preparing for a senior-level interview, this guide has got you covered. Let's dive into the colorful world of CSS! Style your way through interviews with our CSS questions. Learn about layouts, responsive design, animations, and more. 🌈
 
 [Explore CSS Questions](./css/README.md)
 
@@ -102,7 +102,7 @@ Server-side JavaScript is covered in our Node.js section. Learn about modules, t
 
 ## 🚂 Express.js
 
-Get on track with Express.js questions covering routing, middleware, RESTful APIs, and best practices for building web applications.
+Welcome to the ultimate Express.js interview guide! Whether you're a beginner looking to understand the basics or an experienced developer preparing for a high-level interview, this guide has got you covered. Let's dive into the world of Express.js with the enthusiasm and the clarity of a well-structured tutorial! Get on track with Express.js questions covering routing, middleware, RESTful APIs, and best practices for building web applications. 🎓💻
 
 [Explore Express.js Questions](./express/README.md)
 
