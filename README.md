@@ -150,7 +150,7 @@ We welcome contributions from the community! If you'd like to add a question, im
 
 Please ensure your contributions adhere to our coding standards and include appropriate explanations and examples.
 
-![Contributing GIF](https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif)
+![Contributing GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRncHlobTl4amFnNzMycnlnOHJybnExZDVkZjRzc3k5ODJoY2Z5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DSxKEQoQix9hC/giphy.gif)
 
 ## 📄 License
 
