@@ -1393,5 +1393,5 @@ graph TD
     G --> H[End]
 ```
 
-#### Novice Explanation (continued):
+#### Novice Explanation :
 Imagine you're learning to cook in a kitchen that's missing some modern appliances. A polyfill is like a chef who checks what's missing and then shows you how to achieve the same result with the tools you do have. For example, if you don't have a food processor, the chef might show you how to chop ingredients finely by hand to get a similar result. The chef (polyfill) first checks what's available in your kitchen (feature detection), then teaches you a technique (implements the feature) that mimics what the modern appliance would do, allowing you to follow modern recipes (use modern JavaScript) even in an old-fashioned kitchen (older browser).
