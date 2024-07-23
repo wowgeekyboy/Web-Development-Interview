@@ -56,7 +56,7 @@ Dive into the foundation of web development with our HTML section. From basic st
 
 > "HTML is the digital clay that molds the web. Shape it wisely, and your creation will stand the test of time." - Anonymous
 
-![HTML GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![HTML GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXp3cmI2MmE4b2RwcGJxdXBrYTBhOW1wdTVqczAxd20ya25ramE0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vRfNA1p0rvhMSvS/giphy.gif)
 
 ## 🎨 CSS
 
@@ -114,7 +114,7 @@ Get on track with Express.js! Our guide covers routing, middleware, RESTful APIs
 
 > "Express.js: Fast, unopinionated, minimalist web framework for Node.js" - Express.js motto
 
-![Express.js GIF](https://media.giphy.com/media/3oKIPa2TdahY8LAAxy/giphy.gif)
+![Express.js GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXowZ3RqYWNqZ29td24xcTZ2ZTFqZHd0b3U2MWR3azZ2eHVmcml3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2zZNmrvguyPTS06rK0/giphy.gif)
 
 ## 🍃 MongoDB
 
@@ -124,7 +124,7 @@ Dive into the world of NoSQL databases with our MongoDB guide. Learn about docum
 
 > "MongoDB: The database for giant ideas" - MongoDB motto
 
-![MongoDB GIF](https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif)
+![MongoDB GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmowbjg3eTZwNGd2Yjg5ZDBqMnNubWdrdHY0c2pwbWJucWk5d2ZycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GZgWC4ViLxPYJhWy1B/giphy.gif)
 
 ## 🚀 How to Use This Repo
 
@@ -168,4 +168,3 @@ Happy coding, learning, and good luck with your interviews! 💻✨
 
 ![Good Luck GIF](https://media.giphy.com/media/3oz8xAFtqoOUUrsh7W/giphy.gif)
 
-Keywords: web development, interview questions, coding interview, frontend, backend, full-stack, HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, MongoDB, RESTful API, web security, performance optimization, responsive design, MERN stack, web accessibility, SEO, version control, Git, coding best practices, web development resources, programming guide, technical interview preparation
