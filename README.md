@@ -14,6 +14,8 @@
 
 Welcome to the ultimate resource for web development interview preparation! 🎉 This repository is a comprehensive collection of interview questions and answers covering all aspects of web development, from front-end to back-end technologies.
 
+![Welcome GIF](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
+
 ## 🌟 What's Inside?
 
 This repository contains carefully curated questions and detailed answers for various web development technologies, including:
@@ -46,11 +48,19 @@ Dive into the building blocks of the web with our HTML questions. From basic str
 
 [Explore HTML Questions](./html/README.md)
 
+> "HTML is the structure of your house, CSS is the paint and decorations, and JavaScript is the electricity and plumbing." - Unknown
+
+![HTML GIF](https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif)
+
 ## 🎨 CSS
 
 Style your way through interviews with our CSS questions. Learn about layouts, responsive design, animations, and more.
 
 [Explore CSS Questions](./css/README.md)
+
+> "CSS is the art of creating order out of chaos." - Jen Simmons
+
+![CSS GIF](https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif)
 
 ## 💻 JavaScript
 
@@ -61,13 +71,21 @@ Master the language of the web with our comprehensive JavaScript questions. From
 - [Advanced JavaScript Questions](./javascript/Advanced-Questions/README.md)
 - [Additional JavaScript Questions](./javascript/Additional-Questions/README.md)
 
+> "JavaScript is the duct tape of the Internet." - Charlie Campbell
+
+![JavaScript GIF](https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif)
+
 ## ⚛️ React.js
 
 Welcome to the ultimate guide for React.js interview questions! Whether you're a beginner looking to understand the basics or an experienced developer preparing for a challenging interview, this comprehensive document has got you covered. Let's dive in and explore the world of React.js! 🌟
 
 - [Basic React.JS Questions](./reactjs/Basic-Questions/README.md)
 - [Intermediate React.JS Questions](./reactjs/Intermediate-Questions/README.md)
-- [Advanced React.JS Questions](./reactjs/Intermediate-Questions/README.md)
+- [Advanced React.JS Questions](./reactjs/Advanced-Questions/README.md)
+
+> "Learn once, write anywhere." - React.js motto
+
+![React GIF](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)
 
 ## 🖥️ Node.js
 
@@ -75,14 +93,22 @@ Server-side JavaScript is covered in our Node.js section. Learn about modules, t
 
 - [Basic Node.JS Questions](./nodejs/Basic-Questions/README.md)
 - [Intermediate Node.JS Questions](./nodejs/Intermediate-Questions/README.md)
-- [Advanced Node.JS Questions](./nodejs/Intermediate-Questions/README.md)
+- [Advanced Node.JS Questions](./nodejs/Advanced-Questions/README.md)
 - [Additional Node.JS Questions](./nodejs/Additional-Questions/README.md)
+
+> "Node.js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications." - Ryan Dahl
+
+![Node.js GIF](https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif)
 
 ## 🚂 Express.js
 
 Get on track with Express.js questions covering routing, middleware, RESTful APIs, and best practices for building web applications.
 
 [Explore Express.js Questions](./express/README.md)
+
+> "Express.js: Fast, unopinionated, minimalist web framework for Node.js" - Express.js motto
+
+![Express.js GIF](https://media.giphy.com/media/3oKIPa2TdahY8LAAxy/giphy.gif)
 
 ## 🚀 How to Use This Repo
 
@@ -91,6 +117,8 @@ Get on track with Express.js questions covering routing, middleware, RESTful API
 3. **Study the Answers**: Detailed explanations, code examples, and diagrams are provided for each question.
 4. **Practice**: Try to answer the questions on your own before looking at the solutions.
 5. **Contribute**: Found a mistake or have a better explanation? Contributions are welcome!
+
+![How to Use GIF](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
 
 ## 🤝 Contributing
 
@@ -104,6 +132,8 @@ We welcome contributions from the community! If you'd like to add a question, im
 6. Create a new Pull Request
 
 Please ensure your contributions adhere to our coding standards and include appropriate explanations and examples.
+
+![Contributing GIF](https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif)
 
 ## 📄 License
 
@@ -119,3 +149,4 @@ If you find this repository helpful, please consider giving it a star ⭐️. It
 
 Happy coding and good luck with your interviews! 💻✨
 
+![Good Luck GIF](https://media.giphy.com/media/3oz8xAFtqoOUUrsh7W/giphy.gif)
