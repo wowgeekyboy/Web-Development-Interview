@@ -7,6 +7,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/wowgeekyboy/Web-Development-Interview)](https://github.com/wowgeekyboy/Web-Development-Interview/commits/main)
 [![GitHub stars](https://img.shields.io/github/stars/wowgeekyboy/Web-Development-Interview)](https://github.com/wowgeekyboy/Web-Development-Interview/stargazers)
@@ -28,6 +29,7 @@ This repository serves as both a learning guide and interview preparation resour
 - Node.js
 - Express.js
 - MongoDB
+- Next.js
 - RESTful APIs
 - Web Security
 - Performance Optimization
@@ -40,10 +42,12 @@ Whether you're a beginner looking to master web development concepts, an experie
 - [HTML](#-html)
 - [CSS](#-css)
 - [JavaScript](#-javascript)
-- [React.js](#-reactjs)
-- [Node.js](#-nodejs)
+- [React.js](#%EF%B8%8F-reactjs)
+- [Node.js](#%EF%B8%8F-nodejs)
 - [Express.js](#-expressjs)
 - [MongoDB](#-mongodb)
+- [Next.js](#-nextjs)
+- [API](#-api)
 - [How to Use This Repo](#-how-to-use-this-repo)
 - [Contributing](#-contributing)
 - [License](#-license)
@@ -72,10 +76,7 @@ Style your way through interviews and projects with our CSS guide. Learn about l
 
 Master the language of the web with our comprehensive JavaScript guide. From basics to advanced concepts like closures, promises, and ES6+ features.
 
-- [Basic JavaScript Questions](./javascript/Basic-Questions/README.md)
-- [Intermediate JavaScript Questions](./javascript/Intermediate-Questions/README.md)
-- [Advanced JavaScript Questions](./javascript/Advanced-Questions/README.md)
-- [Additional JavaScript Questions](./javascript/Additional-Questions/README.md)
+[Explore JavaScript Questions](./javascript/README.md)
 
 > "JavaScript is the duct tape of the Internet." - Charlie Campbell
 
@@ -85,9 +86,7 @@ Master the language of the web with our comprehensive JavaScript guide. From bas
 
 Dive into the world of component-based architecture with our React.js guide. Perfect for beginners and experienced developers alike!
 
-- [Basic React.JS Questions](./reactjs/Basic-Questions/README.md)
-- [Intermediate React.JS Questions](./reactjs/Intermediate-Questions/README.md)
-- [Advanced React.JS Questions](./reactjs/Advanced-Questions/README.md)
+[Explore React.js Questions](./reactjs/README.md)
 
 > "Learn once, write anywhere." - React.js motto
 
@@ -97,10 +96,7 @@ Dive into the world of component-based architecture with our React.js guide. Per
 
 Explore server-side JavaScript with our comprehensive Node.js section. Learn about modules, the event loop, streams, and more.
 
-- [Basic Node.JS Questions](./nodejs/Basic-Questions/README.md)
-- [Intermediate Node.JS Questions](./nodejs/Intermediate-Questions/README.md)
-- [Advanced Node.JS Questions](./nodejs/Advanced-Questions/README.md)
-- [Additional Node.JS Questions](./nodejs/Additional-Questions/README.md)
+[Explore Node.js Questions](./nodejs/README.md)
 
 > "Node.js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications." - Ryan Dahl
 
@@ -125,6 +121,26 @@ Dive into the world of NoSQL databases with our MongoDB guide. Learn about docum
 > "MongoDB: The database for giant ideas" - MongoDB motto
 
 ![MongoDB GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmowbjg3eTZwNGd2Yjg5ZDBqMnNubWdrdHY0c2pwbWJucWk5d2ZycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GZgWC4ViLxPYJhWy1B/giphy.gif)
+
+## 🔼 Next.js
+
+Learn about the powerful React framework for production-grade applications. Our Next.js guide covers server-side rendering, static site generation, and more!
+
+[Explore Next.js Questions](./nextjs/README.md)
+
+> "The React Framework for Production" - Next.js motto
+
+![Next.js GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI3MjIxNzE1MGNkNjczOTJkNzNjNzFkOTRlNjg4OWM1ZWM0YjIxYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/cBIooxvD0j5ubOPSJj/giphy.gif)
+
+## 🔌 API
+
+Master the art of creating and consuming APIs. This section covers RESTful principles, authentication, versioning, and best practices for API development.
+
+[Explore API Questions](./api/README.md)
+
+> "APIs are the threads that connect our digital world." - Anonymous
+
+![API GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIzNjM1OTdiNjM5ZmM1MGFjZWNjNzFjZjM1OWJjNmFhZTRhZTAxNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPa2TdahY0LPUje/giphy.gif)
 
 ## 🚀 How to Use This Repo
 
@@ -167,4 +183,3 @@ If you find this repository helpful, please consider giving it a star ⭐️. It
 Happy coding, learning, and good luck with your interviews! 💻✨
 
 ![Good Luck GIF](https://media.giphy.com/media/3oz8xAFtqoOUUrsh7W/giphy.gif)
-
