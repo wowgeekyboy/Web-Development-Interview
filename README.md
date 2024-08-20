@@ -130,7 +130,7 @@ Learn about the powerful React framework for production-grade applications. Our 
 
 > "The React Framework for Production" - Next.js motto
 
-![Next.js GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI3MjIxNzE1MGNkNjczOTJkNzNjNzFkOTRlNjg4OWM1ZWM0YjIxYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/cBIooxvD0j5ubOPSJj/giphy.gif)
+![Next.js GIF](https://leo-xee.github.io/81aefd7d1672183644b6579d60eee69e/Next.gif)
 
 ## 🔌 API
 
@@ -140,7 +140,7 @@ Master the art of creating and consuming APIs. This section covers RESTful princ
 
 > "APIs are the threads that connect our digital world." - Anonymous
 
-![API GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIzNjM1OTdiNjM5ZmM1MGFjZWNjNzFjZjM1OWJjNmFhZTRhZTAxNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPa2TdahY0LPUje/giphy.gif)
+![API GIF](https://miro.medium.com/v2/resize:fit:1358/0*YTLUwphSdWs08-dK.gif)
 
 ## 🚀 How to Use This Repo
 
