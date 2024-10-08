@@ -20,37 +20,120 @@ Welcome to the ultimate resource for web development learning and interview prep
 
 ## 🌟 What's Inside?
 
-This repository serves as both a learning guide and interview preparation resource, containing carefully curated questions, detailed answers, and explanations for various web development technologies, including:
+<table>
+  <tr>
+    <td align="center"><img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp" width="100"><br><strong>HTML5</strong></td>
+    <td align="center"><img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp" width="100"><br><strong>CSS3</strong></td>
+    <td align="center"><img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.webp" width="100"><br><strong>JavaScript</strong></td>
+    <td align="center"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="100"><br><strong>React</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><br><strong>Node.js</strong></td>
+    <td align="center"><img src="https://i.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.webp" width="100"><br><strong>MongoDB</strong></td>
+    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmU0bWdhbTlzamY1aDF1dXluNjk1NTZrN2V4NDFqaGFwbTN6amtraHMwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v0cGQXgNXjbFQVbCX9/giphy.gif" width="100"><br><strong>Next.js</strong></td>
+    <td align="center"><img src="https://i.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.webp" width="100"><br><strong>RESTful APIs</strong></td>
+  </tr>
+</table>
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Next.js
-- RESTful APIs
-- Web Security
-- Performance Optimization
-- And more!
+This repository serves as both a learning guide and interview preparation resource, containing:
 
-Whether you're a beginner looking to master web development concepts, an experienced developer preparing for your next big opportunity, or someone looking to refresh their knowledge, you'll find valuable content here to sharpen your skills and boost your confidence.
+- 🔍 Carefully curated questions
+- 📚 Detailed answers and explanations
+- 💻 Code examples and best practices
+- 🔐 Web security insights
+- 🚀 Performance optimization tips
+- 🧠 Conceptual deep dives
+- 🌐 Real-world application scenarios
+
+Whether you're a:
+- 🌱 Beginner looking to master web development concepts
+- 💼 Experienced developer preparing for your next big opportunity
+- 🔄 Professional looking to refresh your knowledge
+
+You'll find valuable content here to sharpen your skills and boost your confidence!
 
 ## 📚 Table of Contents
 
-- [HTML](#-html)
-- [CSS](#-css)
-- [JavaScript](#-javascript)
-- [React.js](#%EF%B8%8F-reactjs)
-- [Node.js](#%EF%B8%8F-nodejs)
-- [Express.js](#-expressjs)
-- [MongoDB](#-mongodb)
-- [Next.js](#-nextjs)
-- [API](#-api)
-- [How to Use This Repo](#-how-to-use-this-repo)
-- [Contributing](#-contributing)
-- [License](#-license)
+<table>
+  <tr>
+    <td>
+      <a href="#-html">
+        <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp" width="50"><br>
+        HTML
+      </a>
+    </td>
+    <td>
+      <a href="#-css">
+        <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp" width="50"><br>
+        CSS
+      </a>
+    </td>
+    <td>
+      <a href="#-javascript">
+        <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.webp" width="50"><br>
+        JavaScript
+      </a>
+    </td>
+    <td>
+      <a href="#%EF%B8%8F-reactjs">
+        <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="50"><br>
+        React.js
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#%EF%B8%8F-nodejs">
+        <img src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><br>
+        Node.js
+      </a>
+    </td>
+    <td>
+      <a href="#-expressjs">
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXowZ3RqYWNqZ29td24xcTZ2ZTFqZHd0b3U2MWR3azZ2eHVmcml3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2zZNmrvguyPTS06rK0/giphy.gif" width="50"><br>
+        Express.js
+      </a>
+    </td>
+    <td>
+      <a href="#-mongodb">
+        <img src="https://i.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.webp" width="50"><br>
+        MongoDB
+      </a>
+    </td>
+    <td>
+      <a href="#-nextjs">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmU0bWdhbTlzamY1aDF1dXluNjk1NTZrN2V4NDFqaGFwbTN6amtraHMwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v0cGQXgNXjbFQVbCX9/giphy.gif" width="50"><br>
+        Next.js
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#-api">
+        <img src="https://i.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.webp" width="50"><br>
+        API
+      </a>
+    </td>
+    <td>
+      <a href="#-how-to-use-this-repo">
+        <img src="https://i.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.webp" width="50"><br>
+        How to Use
+      </a>
+    </td>
+    <td>
+      <a href="#-contributing">
+        <img src="https://i.giphy.com/media/JRsQiAN79bPWUv43Ko/giphy.webp" width="50"><br>
+        Contributing
+      </a>
+    </td>
+    <td>
+      <a href="#-license">
+        <img src="https://i.giphy.com/media/VczKchkE7n2JuZHXP6/giphy.webp" width="50"><br>
+        License
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🧱 HTML
 
