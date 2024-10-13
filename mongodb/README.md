@@ -20,7 +20,7 @@
 
 ### Q1: What is MongoDB and how does it differ from traditional relational databases?
 
-🎓 **Professor's Explanation:**
+🎓 **Expert Explanation:**
 MongoDB is a popular NoSQL database that stores data in flexible, JSON-like documents called BSON (Binary JSON). Unlike traditional relational databases that use tables and rows, MongoDB uses collections and documents.
 
 🔍 **Key Differences:**
@@ -60,13 +60,13 @@ In a relational database, this data would be split across multiple tables (Users
 🎨 **Novice Explanation:**
 Think of MongoDB as a giant digital notebook 📓. Each page in this notebook is a document that can contain any information you want - text, numbers, lists, even smaller notebooks (embedded documents)! You don't need to decide the structure of your pages beforehand; you can add or remove sections as you go. This flexibility is like having a magical notebook that adapts to your needs, unlike traditional databases which are more like rigid forms where you have to fill in predefined boxes.
 
-![MongoDB vs Relational DB](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM5OWZjMjQzMzBkNzM5MzNhZmM2NGNjM2IxMDdlZDU0ZmNhZWM2ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwpsHmxIc6zbbwe/giphy.gif)
+![MongoDB vs Relational DB](https://www.researchgate.net/publication/273260515/figure/fig2/AS:669041790300162@1536523401142/MongoDB-vs-Relational-Database.png)
 
 ## Basic Concepts
 
 ### Q2: Explain the difference between a collection and a document in MongoDB.
 
-🎓 **Professor's Explanation:**
+🎓 **Expert Explanation:**
 In MongoDB, collections and documents are fundamental concepts that form the core of its data model.
 
 1. **Document:**
@@ -119,11 +119,11 @@ Here, `products` is a collection, and each item within it is a document. Notice 
 🎨 **Novice Explanation:**
 Imagine a big filing cabinet 🗄️. This cabinet is your MongoDB database. Inside this cabinet, you have several folders 📁 - these are your collections. Each collection (folder) contains many papers 📄 - these are your documents. Just like how you can put different types of papers in a folder, you can put different types of information in a MongoDB collection!
 
-![Collection and Document](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI0MWNmMzI1MWNkNTY0YzdiOWQ5ZmNjOWM0YzI3ZWNkMjgyZTk3NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwpXvYDMH8qfP2g/giphy.gif)
+![Collection and Document](https://studio3t.com/wp-content/uploads/2022/04/hierachy.png)
 
 ### Q3: What are the advantages of using MongoDB?
 
-🎓 **Professor's Explanation:**
+🎓 **Expert Explanation:**
 MongoDB offers several advantages that make it a popular choice for modern application development:
 
 1. **Flexible Schema:** 
@@ -189,13 +189,12 @@ MongoDB's advantages shine here:
 🎨 **Novice Explanation:**
 Think of MongoDB as a super-flexible, turbocharged notebook system 📓💨. It's like having a magical notebook that can grow as big as you need (scalability), understand and find information in many ways (rich queries), and even split itself into many notebooks that work together (sharding). Plus, it's really good at understanding all sorts of information, from text to locations on a map! 🗺️
 
-![MongoDB Advantages](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM0MzNjMzc1YjUzNzMzOTk4MjI1ZWRhZWNjOGNjMzM1NDAxOTFlNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwfAa9rbXoLjcR2/giphy.gif)
 
 ## CRUD Operations
 
 ### Q4: How do you perform CRUD operations in MongoDB?
 
-🎓 **Professor's Explanation:**
+🎓 **Expert Explanation:**
 CRUD operations in MongoDB refer to Create, Read, Update, and Delete operations on documents. Let's explore each operation with examples:
 
 1. **Create (Insert)**
@@ -309,13 +308,11 @@ Imagine you have a magical notebook 📓✨:
 
 MongoDB gives you special commands to do all these actions quickly and easily, even if your notebook has millions of pages!
 
-![CRUD Operations](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjk3MWNhZDM0ZTFhZWE0ZWNhZGFhZWM1ZTMwZTM4ZWUyZDEzNzA0YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwfcwmhoPcQA5VK/giphy.gif)
-
 ## Indexing
 
 ### Q5: What is the purpose of the `_id` field in MongoDB?
 
-🎓 **Professor's Explanation:**
+🎓 **Expert Explanation:**
 The `_id` field in MongoDB serves as a unique identifier for each document within a collection. It's a special field with several important characteristics:
 
 1. **Uniqueness:** The `_id` field is always unique within a collection, ensuring that each document can be distinctly identified.
@@ -369,11 +366,10 @@ db.users.insertOne({
 🎨 **Novice Explanation:**
 Imagine you're organizing a huge library 📚. Every book needs a unique code so you can find it easily. In MongoDB, the `_id` is like this unique code for each piece of information (document). If you don't give a book a code, the library (MongoDB) automatically puts a special sticker (ObjectId) on it. This way, no matter how many books you have, each one can be quickly and easily found! 🔍📕
 
-![MongoDB _id field](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzU4YzE1ZWMzYzgzZDMxZjAxZTE1ZWNhNzFmZGFjOTYyZWM2ZTk0YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwpAWKrUgSNdh1S/giphy.gif)
 
 ### Q6: How do you create an index in MongoDB and why are indexes important?
 
-🎓 **Professor's Explanation:**
+🎓 **Expert Explanation:**
 Indexes in MongoDB are special data structures that store a small portion of the collection's data set in an easy-to-traverse form. They significantly improve the speed of read operations but can slow down write operations.
 
 **Creating an Index:**
@@ -423,13 +419,12 @@ db.bookstores.find({ location: { $near: { $geometry: { type: "Point", coordinate
 🎨 **Novice Explanation:**
 Think of a book with an index at the back 📚. Without it, you'd have to flip through every page to find what you want. The index lets you jump right to the information you need. MongoDB indexes work the same way! They're like super-powered bookmarks 🔖 that help MongoDB find your data super fast, without having to look at every single piece of information. 
 
-![MongoDB Indexing](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZhNzI0ZWEzZGNjZDhjMzUzNzM2MzNlMzExYzUzOWZjMzUwZTVlZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwqcVeW6EcCfaJa/giphy.gif)
 
 ## Sharding
 
 ### Q7: Explain the concept of sharding in MongoDB.
 
-🎓 **Professor's Explanation:**
+🎓 **Expert Explanation:**
 Sharding is MongoDB's approach to horizontal scaling. It involves distributing data across multiple machines to support deployments with very large data sets and high throughput operations.
 
 **Key Concepts:**
@@ -479,13 +474,13 @@ In this scenario, sharding allows the e-commerce platform to:
 🎨 **Novice Explanation:**
 Imagine you have a huge box of LEGO bricks 🧱, and you want to sort them. Instead of one person sorting all the bricks, you ask your friends to help. You give each friend (shard) a specific type of brick to sort (shard key). Now, when you need a particular brick, you know exactly which friend to ask! This is how MongoDB uses sharding to handle enormous amounts of data efficiently. 
 
-![MongoDB Sharding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRmMzFmM2NmNzM4NjNjYjFiZDg1ZjFkMzQ0MzExZTM0ZWZkYmNhMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwt0DOoK2L1kLOE/giphy.gif)
+![MongoDB Sharding](https://www.mongodb.com/docs/v5.2/images/sharded-cluster-mixed.bakedsvg.svg)
 
 ## Replication
 
 ### Q8: What is replication in MongoDB and how does it work?
 
-🎓 **Professor's Explanation:**
+🎓 **Expert Explanation:**
 Replication in MongoDB is the practice of maintaining multiple copies of your data on different database servers. This provides redundancy and increases data availability.
 
 **Key Concepts:**
@@ -540,13 +535,13 @@ In this scenario:
 🎨 **Novice Explanation:**
 Think of replication like having backup singers in a band 🎤👥. The lead singer (primary node) sings the main part, and the backup singers (secondary nodes) learn and sing the same song. If the lead singer loses their voice, one of the backup singers can step up and become the new lead. This way, the show (your data) always goes on! 
 
-![MongoDB Replication](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRkOGVmMzdiODZhYTIwMWJlMTEyYjVkZDhjYzM0MzdhMjllMjI1ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwEV8JfKnYgLvG0/giphy.gif)
+![MongoDB Replication](https://webimages.mongodb.com/_com_assets/cms/mongodb-replication-pnxoiu53rz.svg?auto=format%2Ccompress)
 
 ## Schema Design
 
 ### Q9: How do you handle schema design in MongoDB?
 
-🎓 **Professor's Explanation:**
+🎓 **Expert Explanation:**
 Schema design in MongoDB is flexible and allows for evolving data models. Unlike traditional relational databases, MongoDB doesn't enforce a strict schema. However, thoughtful schema design is crucial for optimal performance and scalability.
 
 **Key Principles:**
@@ -613,13 +608,12 @@ In this design:
 🎨 **Novice Explanation:**
 Designing a MongoDB schema is like organizing a big toolbox 🧰. You want to put the tools you often use together in easy-to-reach compartments (embedding), while keeping some specialized tools in separate drawers but with labels pointing to them (referencing). The goal is to arrange everything so you can find and use your tools (data) quickly and easily when you need them! 
 
-![MongoDB Schema Design](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWM1ZTAyZWVjMmM4ZjMwMWRhOTNjNjM0ZTBkZWNhMzVmZTYzZWZjYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwkRyE9IIwl0BVe/giphy.gif)
 
 ## Data Types
 
 ### Q10: What are the different data types supported by MongoDB?
 
-🎓 **Professor's Explanation:**
+🎓 **Expert Explanation:**
 MongoDB supports a rich set of data types, allowing for flexible and expressive data modeling. Here are the main data types:
 
 1. **String:** UTF-8 encoded string.
@@ -678,13 +672,12 @@ This document showcases various data types:
 🎨 **Novice Explanation:**
 Imagine you have a magical box 📦✨ that can hold all sorts of things - numbers, words, lists, even smaller boxes! MongoDB is like this magical box. It can store many different types of information, from simple things like numbers and words, to complex things like dates, special codes, and even entire collections of other information. This flexibility allows you to organize your data in ways that make the most sense for your specific needs!
 
-![MongoDB Data Types](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRkZmZlODNjMzNkOWJkYzM1MzM1MmZjOWI2OTU3OTRiNzk4MTJlNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwLECKNy6OeiNdm/giphy.gif)
 
 ## Aggregation
 
 ### Q11: How do you perform aggregation operations in MongoDB?
 
-🎓 **Professor's Explanation:**
+🎓 **Expert Explanation:**
 Aggregation in MongoDB is a way of processing a large number of documents in a collection by means of passing them through different stages. The aggregation pipeline consists of one or more stages that process documents:
 
 1. Each stage performs an operation on the input documents.
@@ -754,13 +747,12 @@ This aggregation pipeline:
 🎨 **Novice Explanation:**
 Think of MongoDB aggregation like a fancy coffee machine ☕️. You put in your raw coffee beans (your data), and then you can set up different steps: grinding the beans ($match), sorting them ($sort), mixing with water ($group), and finally, pouring into cups ($project). Each step prepares your data in a specific way, and at the end, you get exactly the "coffee" (information) you wanted!
 
-![MongoDB Aggregation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZmMDllZDkwMjZjZTMyNWI2YjdmNDJjOTZhYzExZDIyZWYxNzhjNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwLUg6f0y8B7hrO/giphy.gif)
 
 ## Transactions
 
 ### Q12: How do you perform transactions in MongoDB and what are their limitations?
 
-🎓 **Professor's Explanation:**
+🎓 **Expert Explanation:**
 MongoDB supports multi-document ACID transactions starting from version 4.0 for replica sets and 4.2 for sharded clusters. Transactions allow you to execute multiple operations in isolation and potentially roll them back if any part of the transaction fails.
 
 **Key Concepts:**
@@ -829,13 +821,12 @@ In this scenario, the transaction ensures that either both accounts are updated 
 🎨 **Novice Explanation:**
 Imagine you're moving furniture between two rooms 🏠. You want to make sure that if you take a chair from one room, it definitely ends up in the other room - not stuck in the hallway! MongoDB transactions are like having a magic spell ✨ that ensures everything moves correctly, or if something goes wrong, everything goes back to how it was before you started. It's a way to keep your data safe and consistent, especially when you're making multiple changes at once.
 
-![MongoDB Transactions](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTEwNjQ5ZTFkZDFjNDUwMzNiNDM0ZGQ0OWIzNzQzZDJlYjJjNDM1YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwhFCW5wUeVeHW8/giphy.gif)
 
 ## Advanced Queries
 
 ### Q13: How do you use the `$lookup` operator for joins in MongoDB?
 
-🎓 **Professor's Explanation:**
+🎓 **Expert Explanation:**
 The `$lookup` operator in MongoDB performs a left outer join to another collection in the same database. It's part of the aggregation pipeline and allows you to combine documents from two collections based on a specified condition.
 
 **Basic Syntax:**
@@ -912,11 +903,10 @@ This aggregation:
 🎨 **Novice Explanation:**
 Imagine you're planning a big party 🎉 and you have two lists: one with guest names and their favorite color, and another with color themes and decorations. The `$lookup` operator is like a party planner that matches each guest with the right decorations based on their favorite color. It brings information together from different lists to create a complete party plan! 
 
-![MongoDB $lookup](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNjMzQyNmQwY2I5MTkyMTQ2YTc5MjBkNDVjNjc0NzI2NjcyM2NlNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwGHxZY1qPeXhuw/giphy.gif)
 
 ### Q14: Explain the difference between `findOne()` and `find()` methods in MongoDB.
 
-🎓 **Professor's Explanation:**
+🎓 **Expert Explanation:**
 Both `findOne()` and `find()` are methods used to query documents in MongoDB, but they have some key differences:
 
 1. **Return Value:**
@@ -971,13 +961,12 @@ Think of `findOne()` and `find()` like fishing 🎣:
 
 Both help you get fish (data), but in different ways depending on what you need!
 
-![MongoDB find vs findOne](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjgyMzY1MDU4MGQyMjZkNTFlZjRjZDgyMzgwZDVjOGUyZmZhYzIzZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwQV8KwjMHJVCaK21/giphy.gif)
 
 ## Performance Optimization
 
 ### Q15: What strategies can you use to optimize MongoDB performance?
 
-🎓 **Professor's Explanation:**
+🎓 **Expert Explanation:**
 Optimizing MongoDB performance involves various strategies across different aspects of database design and usage:
 
 1. **Indexing:**
@@ -1068,13 +1057,12 @@ Optimizing MongoDB is like tuning a race car 🏎️. You want to make sure ever
 
 The goal is to make your database run as fast and efficiently as possible, just like you want your race car to zoom around the track! 🏁
 
-![MongoDB Performance Optimization](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ1NDFkMzExN2NmOGFkYTZmNjc4ZmFmY2M0YzE1ZDRjNWRlMmNjNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwHGrKWOoLsqYgw/giphy.gif)
 
 ## Security
 
 ### Q16: What are some key security features and best practices in MongoDB?
 
-🎓 **Professor's Explanation:**
+🎓 **Expert Explanation:**
 Securing MongoDB involves multiple layers of protection:
 
 1. **Authentication:**
@@ -1181,13 +1169,12 @@ Securing MongoDB is like protecting a treasure chest 🏴‍☠️💰:
 
 All these work together to keep your precious data safe from pirates (hackers)! ⚔️
 
-![MongoDB Security](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNmNTkzMmUxMDMwYTljOTViM2M0Yjg4OGYzODYzOTIzZTY0ZDMyNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwPdCaZTQApnlug/giphy.gif)
 
 ## Best Practices
 
 ### Q17: What are some MongoDB best practices for scalability and maintainability?
 
-🎓 **Professor's Explanation:**
+🎓 **Expert Explanation:**
 Adhering to best practices ensures that your MongoDB deployment remains scalable, maintainable, and performant:
 
 1. **Design with Scalability in Mind:**
@@ -1301,7 +1288,6 @@ Following MongoDB best practices is like being a master chef in a busy kitchen �
 
 By following these practices, you ensure your MongoDB "kitchen" runs smoothly, can handle lots of "customers" (users), and produces delicious "meals" (data) efficiently! 🍽️
 
-![MongoDB Best Practices](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmY5ZWI2ZGQ3ZTAzYzg1ZDQ2MjdiZmYyYzM1ZjQ0MjEyZDQ1YWI4ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwgoqEfEZpFDTiw/giphy.gif)
 
 
 

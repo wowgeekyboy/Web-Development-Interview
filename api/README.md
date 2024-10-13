@@ -20,7 +20,7 @@ An API (Application Programming Interface) is a set of protocols, routines, and 
 **Use Case:**
 Consider a weather app on your smartphone. The app itself doesn't have a database of weather information for every location. Instead, it uses an API provided by a weather service. When you check the weather for New York, the app makes an API call to the weather service, which returns the current weather data for New York. The app then displays this information to you.
 
-![API Diagram](https://media.giphy.com/media/3o6Zt7jdPR9gJ8YuFq/giphy.gif)
+![API Diagram](https://cdn.hashnode.com/res/hashnode/image/upload/v1660072937666/rh1jxAZsM.gif)
 
 ### 2. What are the different types of APIs? 🌈
 

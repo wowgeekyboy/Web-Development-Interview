@@ -54,8 +54,7 @@ Imagine you're arranging books on a shelf:
 <div class="inline-block">Elements</div>
 ```
 
-Result:
-![Display Types](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN1MmVvNnRzenIyYjhkNnQ2ZHZkc3Z1bXJ6ZmZ5dWIwemR2MWN1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9J7tdYltWyXIY/giphy.gif)
+![Display Types](https://i.sstatic.net/mGTYI.pnghttps://i.sstatic.net/mGTYI.png)
 
 ### 2. Explain the box model in CSS and how you can alter it.
 
@@ -123,8 +122,7 @@ Think of an element as a burger:
 }
 ```
 
-Result:
-![Margin vs Padding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXA2NXU1MHF1NTNpNzlwZnZuOHBiYmpqb3k4aHd6YnEyN2VzNG96ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xjSETVG3OpPyx2/giphy.gif)
+![Margin vs Padding](https://media.emailonacid.com/wp-content/uploads/2019/08/EOA-MarginsPadding-Blog-2.jpg)
 
 ## Layout and Positioning
 
@@ -232,8 +230,7 @@ Imagine a race:
 }
 ```
 
-Visual representation:
-![CSS Positioning](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjI2YnhxaGtwZjN2NjJjMXQ1ZWw0dXM2ZzVnbHE2bGJxajR2NTdtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btMOHkUfgRXxpfy/giphy.gif)
+
 
 ## Responsive Design
 
@@ -296,9 +293,6 @@ Responsive design involves several techniques:
   }
 }
 ```
-
-Visual representation:
-![Responsive Design](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc2cWVrOTRzdHl2MWlhdGZjY3d6aTYyN3JueXh4eW8xbmw2ZjdpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b2CD0Qjl6062Y/giphy.gif)
 
 ### 7. What are CSS media queries and how do they work?
 
@@ -464,8 +458,6 @@ p.text { color: green; }
 #header .text { color: purple; }
 ```
 
-Visual representation:
-![CSS Specificity](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2R2ZmVjemRzODRiM3Zld3l5bDFyM2FiMjI2dzNrbXVqcGJkbjVxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btNhMBytxAM6YBa/giphy.gif)
 
 ### 10. What are CSS pseudo-classes and pseudo-elements? Provide examples.
 
@@ -588,9 +580,6 @@ There are several ways to center elements in CSS, depending on the context:
 }
 ```
 
-#### Visual Representation:
-![Centering in CSS](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZ3NW9hNGs2dzJhbzIwOHE1cGQxcnl0ZXMwbzY1anFlN2hqdm4yMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwfAa9rbXaZe86c/giphy.gif)
-
 ## CSS Animations and Transitions
 
 ### 12. How can you create animations in CSS? Provide an example.
@@ -685,9 +674,6 @@ You can use the `transition` shorthand property:
 }
 ```
 
-#### Visual Representation:
-![CSS Transition](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZyY2VzODlnejFraWVvd2txeXJsaG0yYmRvNXBydTJiNTNjdHFieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btNa0RUYa5E7iiQ/giphy.gif)
-
 ### 14. What are CSS variables (custom properties) and how do you use them?
 
 #### Novice Explanation 🎨
@@ -780,7 +766,5 @@ html {
 - Use `rem` for sizes you want to scale with page zoom
 - Use `em` for sizes you want to scale with component zoom
 
-#### Visual Comparison:
-![em vs rem](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVobHYyOW4wYXFkcXd0ZWRtOWdnaDY2ZWcyN2d2c2ZjcmZmZmVxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlTy9x8FZo0XO1i/giphy.gif)
 
 
