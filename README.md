@@ -30,7 +30,7 @@ Welcome to the ultimate resource for web development learning and interview prep
   <tr>
     <td align="center"><img src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><br><strong>Node.js</strong></td>
     <td align="center"><img src="https://i.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.webp" width="100"><br><strong>MongoDB</strong></td>
-    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmU0bWdhbTlzamY1aDF1dXluNjk1NTZrN2V4NDFqaGFwbTN6amtraHMwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v0cGQXgNXjbFQVbCX9/giphy.gif" width="100"><br><strong>Next.js</strong></td>
+    <td align="center"><img src="https://i.pinimg.com/originals/48/08/90/480890492217f221ba7bb926d6fe1655.gif" width="100"><br><strong>Next.js</strong></td>
     <td align="center"><img src="https://i.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.webp" width="100"><br><strong>RESTful APIs</strong></td>
   </tr>
 </table>
@@ -90,7 +90,7 @@ You'll find valuable content here to sharpen your skills and boost your confiden
     </td>
     <td>
       <a href="#-expressjs">
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXowZ3RqYWNqZ29td24xcTZ2ZTFqZHd0b3U2MWR3azZ2eHVmcml3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2zZNmrvguyPTS06rK0/giphy.gif" width="50"><br>
+        <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="50"><br>
         Express.js
       </a>
     </td>
@@ -102,7 +102,7 @@ You'll find valuable content here to sharpen your skills and boost your confiden
     </td>
     <td>
       <a href="#-nextjs">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmU0bWdhbTlzamY1aDF1dXluNjk1NTZrN2V4NDFqaGFwbTN6amtraHMwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v0cGQXgNXjbFQVbCX9/giphy.gif" width="50"><br>
+        <img src="https://www.staffworx.co.uk/wp-content/uploads/2021/09/nextjs-gif.gif" width="50"><br>
         Next.js
       </a>
     </td>
@@ -116,7 +116,7 @@ You'll find valuable content here to sharpen your skills and boost your confiden
     </td>
     <td>
       <a href="#-how-to-use-this-repo">
-        <img src="https://i.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.webp" width="50"><br>
+        <img src="https://i.graphicmama.com/uploads/2023/3/64228daddf07f-cute-sun-character-animated-gifs.gif" width="50"><br>
         How to Use
       </a>
     </td>
@@ -128,7 +128,7 @@ You'll find valuable content here to sharpen your skills and boost your confiden
     </td>
     <td>
       <a href="#-license">
-        <img src="https://i.giphy.com/media/VczKchkE7n2JuZHXP6/giphy.webp" width="50"><br>
+        <img src="https://img1.picmix.com/output/stamp/normal/1/5/4/8/2358451_ab8ab.gif" width="50"><br>
         License
       </a>
     </td>
@@ -213,7 +213,7 @@ Learn about the powerful React framework for production-grade applications. Our 
 
 > "The React Framework for Production" - Next.js motto
 
-![Next.js GIF](https://leo-xee.github.io/81aefd7d1672183644b6579d60eee69e/Next.gif)
+![Next.js GIF](https://velog.velcdn.com/images/aksen5240/post/a7fee78a-b228-4b5f-8912-b7a47c15147a/image.gif)
 
 ## 🔌 API
 
