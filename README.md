@@ -52,86 +52,28 @@ Whether you're a:
 
 You'll find valuable content here to sharpen your skills and boost your confidence!
 
-## 📚 Table of Contents
 
 <table>
   <tr>
-    <td>
-      <a href="#-html">
-        <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp" width="50"><br>
-        HTML
-      </a>
-    </td>
-    <td>
-      <a href="#-css">
-        <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp" width="50"><br>
-        CSS
-      </a>
-    </td>
-    <td>
-      <a href="#-javascript">
-        <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.webp" width="50"><br>
-        JavaScript
-      </a>
-    </td>
-    <td>
-      <a href="#%EF%B8%8F-reactjs">
-        <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="50"><br>
-        React.js
-      </a>
-    </td>
+    <td align="center" colspan="4"><strong>📚 Table of Contents</strong></td>
   </tr>
   <tr>
-    <td>
-      <a href="#%EF%B8%8F-nodejs">
-        <img src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><br>
-        Node.js
-      </a>
-    </td>
-    <td>
-      <a href="#-expressjs">
-        <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="50"><br>
-        Express.js
-      </a>
-    </td>
-    <td>
-      <a href="#-mongodb">
-        <img src="https://i.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.webp" width="50"><br>
-        MongoDB
-      </a>
-    </td>
-    <td>
-      <a href="#-nextjs">
-        <img src="https://www.staffworx.co.uk/wp-content/uploads/2021/09/nextjs-gif.gif" width="50"><br>
-        Next.js
-      </a>
-    </td>
+    <td align="center"><a href="#-html">🌐<br>HTML</a></td>
+    <td align="center"><a href="#-css">🎨<br>CSS</a></td>
+    <td align="center"><a href="#-javascript">📜<br>JavaScript</a></td>
+    <td align="center"><a href="#%EF%B8%8F-reactjs">⚛️<br>React.js</a></td>
   </tr>
   <tr>
-    <td>
-      <a href="#-api">
-        <img src="https://i.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.webp" width="50"><br>
-        API
-      </a>
-    </td>
-    <td>
-      <a href="#-how-to-use-this-repo">
-        <img src="https://i.graphicmama.com/uploads/2023/3/64228daddf07f-cute-sun-character-animated-gifs.gif" width="50"><br>
-        How to Use
-      </a>
-    </td>
-    <td>
-      <a href="#-contributing">
-        <img src="https://i.giphy.com/media/JRsQiAN79bPWUv43Ko/giphy.webp" width="50"><br>
-        Contributing
-      </a>
-    </td>
-    <td>
-      <a href="#-license">
-        <img src="https://img1.picmix.com/output/stamp/normal/1/5/4/8/2358451_ab8ab.gif" width="50"><br>
-        License
-      </a>
-    </td>
+    <td align="center"><a href="#%EF%B8%8F-nodejs">🟢<br>Node.js</a></td>
+    <td align="center"><a href="#-expressjs">🚂<br>Express.js</a></td>
+    <td align="center"><a href="#-mongodb">🍃<br>MongoDB</a></td>
+    <td align="center"><a href="#-nextjs">▲<br>Next.js</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="#-api">🔌<br>API</a></td>
+    <td align="center"><a href="#-how-to-use-this-repo">📘<br>How to Use</a></td>
+    <td align="center"><a href="#-contributing">🤝<br>Contributing</a></td>
+    <td align="center"><a href="#-license">📄<br>License</a></td>
   </tr>
 </table>
 
